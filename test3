@@ -1,6 +1,407 @@
-RewriteEngine On
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-# Redirect /HachikoEdu/public/contact/ ke /contact/
-RewriteCond %{HTTPS} on
-RewriteCond %{REQUEST_URI} ^/HachikoEdu/public/contact/?$
-RewriteRule ^.*$ https://hachiko.edu.np/contact/ [R=301,L]
+
+<url>
+  <loc>https://hachiko.edu.np/</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/about</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/about</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/experience</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/our-team</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/university</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/student-visa/why-study-in-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/student-visa/study-engineering-in-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/student-visa/some-facts-about-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/student-visa/essential-preparation-to-study-in-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/student-visa/student-visa-application-process</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/student-visa/total-applicable-cost</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/student-visa/immigration-procedures</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/student-visa/required-documents-for-student-visa-in-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/student-visa/part-time-job</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/student-visa/key-points-to-study-in-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/career-guidance/engineering-placement-in-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/career-guidance/ssw-visa-in-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/career-guidance/it-%E2%80%93-computer-graduates</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/career-guidance/nursing-caring-job-in-japan-from-nepal</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/career-guidance/technical-trainee</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/test-preparation/1</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/test-preparation/2</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/test-preparation/3</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/test-preparation/4</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/test-preparation/5</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/resources</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/news-and-notices</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/event</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/blog</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/gallery</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/video</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/faq</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/contact/</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/news/9</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/news/8</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/news/6</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/news/3</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/news/7</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/event/%F0%9F%8C%9F%20Work%20in%20Japan%21%20SHIZUOKA%20Interview%20Event%20in%20Kathmandu%20%F0%9F%87%AF%F0%9F%87%B5%F0%9F%87%B3%F0%9F%87%B5%20%F0%9F%8C%9F?id=45</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/experience</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/our-team</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/university</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/student-visa/why-study-in-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/student-visa/study-engineering-in-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/student-visa/some-facts-about-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/student-visa/essential-preparation-to-study-in-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/student-visa/student-visa-application-process</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/student-visa/total-applicable-cost</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/student-visa/immigration-procedures</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/student-visa/required-documents-for-student-visa-in-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/student-visa/part-time-job</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/student-visa/key-points-to-study-in-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/career-guidance/engineering-placement-in-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/career-guidance/ssw-visa-in-japan</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/career-guidance/it-%E2%80%93-computer-graduates</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/career-guidance/nursing-caring-job-in-japan-from-nepal</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/career-guidance/technical-trainee</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/test-preparation/1</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/test-preparation/2</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/test-preparation/3</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/test-preparation/4</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/test-preparation/5</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/resources</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/news-and-notices</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/event</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/blog</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/gallery</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/video</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/faq</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/gallery/9</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/news/9</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/news/8</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/news/6</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/news/3</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/news/7</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/event/%F0%9F%8C%9F%20Work%20in%20Japan%21%20SHIZUOKA%20Interview%20Event%20in%20Kathmandu%20%F0%9F%87%AF%F0%9F%87%B5%F0%9F%87%B3%F0%9F%87%B5%20%F0%9F%8C%9F?id=45</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://hachiko.edu.np/HachikoEdu/public/gallery/9</loc>
+  <lastmod>2025-09-14T14:13:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
