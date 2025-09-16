@@ -1,27 +1,9 @@
-Options -Indexes
+RewriteEngine On
+RewriteCond %{REQUEST_URI} ^/HachikoEdu/public/contact/$
+RewriteRule ^(.*)$ https://hachiko.edu.np/contact/ [R=301,L]
 
-DirectoryIndex index.php
+RewriteEngine On
+RewriteCond %{REQUEST_METHOD} ^(PUT|DELETE|TRACE|TRACK|OPTIONS)$ [NC]
+RewriteRule .* - [F]
 
-# Redirect kalau ada yang akses langsung /contact/index.php -> /contact/
-<IfModule mod_rewrite.c>
-    RewriteEngine On
-    RewriteBase /contact/
 
-    # Jika request eksplisit ke index.php, arahkan ke /contact/
-    RewriteCond %{THE_REQUEST} "\s/contact/index\.php[\s?]" [NC]
-    RewriteRule ^index\.php$ /contact/ [R=301,L]
-</IfModule>
-
-<Files "index.php">
-    <IfModule mod_authz_core.c>  # Apache 2.4+
-        <LimitExcept GET HEAD>
-            Require all denied
-        </LimitExcept>
-    </IfModule>
-    <IfModule !mod_authz_core.c> # Apache 2.2 legacy
-        <LimitExcept GET HEAD>
-            Order allow,deny
-            Deny from all
-        </LimitExcept>
-    </IfModule>
-</Files>
