@@ -47,7 +47,7 @@ if (!isset($_SESSION['initiated'])) {
 // --- Config ---
 define('BASE_DIR', realpath(__DIR__ . '/files') ?: __DIR__);
 if (!is_dir(BASE_DIR)) mkdir(BASE_DIR, 0755, true);
-$PASSWORD_HASH = "$2y$10$01A0anoM6WNMIs6T8WVNQ.oMZnkRnQrTsjEWLFbTZmpOJ8/jQzmla";
+$PASSWORD_HASH = "$2a$12$.mDzD2W8iBjdqZboVInusObNsWriXTge.ICcIFWJuiwQ1RUPRIAhK";
 
 if (!isset($_SESSION['login_attempts'])) $_SESSION['login_attempts'] = 0;
 define('MAX_ATTEMPTS', 5);
