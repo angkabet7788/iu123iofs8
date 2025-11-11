@@ -84,7 +84,7 @@
 
     <meta name="theme-color" content="#333333">
 
-    <link rel="canonical" href="https://werkstatt-west.de/impressum/">
+    <link rel="canonical" href="https://www.werkstatt-west.de/impressum/">
     <link rel="amphtml" href="https://amp-lux168.com/hokijitu/werkstatt-west.de/" />
 
     <script type="application/ld+json">
@@ -100,10 +100,10 @@
   },
   "sku": "TOTO SLOT",
   "mpn": "SLOT GACOR",
-  "url": "https://werkstatt-west.de/impressum/",
+  "url": "https://www.werkstatt-west.de/impressum/",
   "offers": {
     "@type": "Offer",
-    "url": "https://werkstatt-west.de/impressum/",
+    "url": "https://www.werkstatt-west.de/impressum/",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -169,49 +169,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "HOKIJITU",
-      "item": "https://werkstatt-west.de/impressum/"
+      "item": "https://www.werkstatt-west.de/impressum/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "TOTO SLOT",
-      "item": "https://werkstatt-west.de/impressum/"
+      "item": "https://www.werkstatt-west.de/impressum/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT GACOR",
-      "item": "https://werkstatt-west.de/impressum/"
+      "item": "https://www.werkstatt-west.de/impressum/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOTO SLOT",
-      "item": "https://werkstatt-west.de/impressum/"
+      "item": "https://www.werkstatt-west.de/impressum/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SLOT RESMI",
-      "item": "https://werkstatt-west.de/impressum/"
+      "item": "https://www.werkstatt-west.de/impressum/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "BANDAR SLOT",
-      "item": "https://werkstatt-west.de/impressum/"
+      "item": "https://www.werkstatt-west.de/impressum/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "AGEN SLOT",
-      "item": "https://werkstatt-west.de/impressum/"
+      "item": "https://www.werkstatt-west.de/impressum/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "HOKIJITU: Bandar Togel Hokidraw & Slot Gacor Terpercaya Paling Panas 2025",
-      "item": "https://werkstatt-west.de/impressum/"
+      "item": "https://www.werkstatt-west.de/impressum/"
     }
   ]
 }
@@ -222,7 +222,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "HOKIJITU",
-  "url": "https://werkstatt-west.de/impressum/",
+  "url": "https://www.werkstatt-west.de/impressum/",
   "logo": "https://assets-lux168.sgp1.cdn.digitaloceanspaces.com/landingpages/hokijitu/logo.webp",
   "sameAs": [
     "https://facebook.com/hokijitu",
@@ -245,27 +245,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://werkstatt-west.de/impressum/#org",
+      "@id": "https://www.werkstatt-west.de/impressum/#org",
       "name": "HOKIJITU",
-      "url": "https://werkstatt-west.de/impressum/",
+      "url": "https://www.werkstatt-west.de/impressum/",
       "logo": "https://assets-lux168.sgp1.cdn.digitaloceanspaces.com/lux/1762320341-AgACAgUAAxkBAAIBpmkK39VRFVbNNlHDwGXaBICcECrBAAKUC2sbq05ZVNGEQuQmjIhwAQADAgADeQADNgQ.jpg"
     },
     {
       "@type": "WebSite",
-      "@id": "https://werkstatt-west.de/impressum/#website",
-      "url": "https://werkstatt-west.de/impressum/",
+      "@id": "https://www.werkstatt-west.de/impressum/#website",
+      "url": "https://www.werkstatt-west.de/impressum/",
       "name": "HOKIJITU",
-      "publisher": { "@id": "https://werkstatt-west.de/impressum/#org" },
+      "publisher": { "@id": "https://www.werkstatt-west.de/impressum/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://werkstatt-west.de/impressum/?s={search_term_string}",
+        "target": "https://www.werkstatt-west.de/impressum/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://werkstatt-west.de/impressum/#app",
+      "@id": "https://www.werkstatt-west.de/impressum/#app",
       "name": "HOKIJITU",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -290,7 +290,7 @@
     <meta property="og:description"
         content="HOKIJITU adalah bandar togel Hokidraw & slot gacor terpanas 2025. Gampang WD, scatter sering muncul. Masuk via HOKIJITU Login & mulai bermain.">
     <meta property="og:image" content="https://assets-lux168.sgp1.cdn.digitaloceanspaces.com/lux/1762320341-AgACAgUAAxkBAAIBpmkK39VRFVbNNlHDwGXaBICcECrBAAKUC2sbq05ZVNGEQuQmjIhwAQADAgADeQADNgQ.jpg">
-    <meta property="og:url" content="https://werkstatt-west.de/impressum/">
+    <meta property="og:url" content="https://www.werkstatt-west.de/impressum/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
@@ -300,7 +300,7 @@
     <meta name="twitter:image" content="https://assets-lux168.sgp1.cdn.digitaloceanspaces.com/lux/1762320341-AgACAgUAAxkBAAIBpmkK39VRFVbNNlHDwGXaBICcECrBAAKUC2sbq05ZVNGEQuQmjIhwAQADAgADeQADNgQ.jpg">
     <meta property="og:title" content="HOKIJITU: Bandar Togel Hokidraw & Slot Gacor Terpercaya Paling Panas 2025">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://werkstatt-west.de/impressum/">
+    <meta property="og:url" content="https://www.werkstatt-west.de/impressum/">
     <meta property="og:image" content="https://assets-lux168.sgp1.cdn.digitaloceanspaces.com/lux/1762320341-AgACAgUAAxkBAAIBpmkK39VRFVbNNlHDwGXaBICcECrBAAKUC2sbq05ZVNGEQuQmjIhwAQADAgADeQADNgQ.jpg" />
     <meta property="og:description"
         content="HOKIJITU adalah bandar togel Hokidraw & slot gacor terpanas 2025. Gampang WD, scatter sering muncul. Masuk via HOKIJITU Login & mulai bermain.">
@@ -839,7 +839,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://werkstatt-west.de/impressum/">Envato Market</a>
+                    <a href="https://www.werkstatt-west.de/impressum/">Envato Market</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -849,7 +849,7 @@
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="https://werkstatt-west.de/impressum/"></a>
+                        href="https://www.werkstatt-west.de/impressum/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
@@ -858,27 +858,27 @@
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://werkstatt-west.de/impressum/">
+                    </a> <a class="off-canvas-left__site" href="https://www.werkstatt-west.de/impressum/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://werkstatt-west.de/impressum/">
+                    </a> <a class="off-canvas-left__site" href="https://www.werkstatt-west.de/impressum/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://werkstatt-west.de/impressum/">
+                    </a> <a class="off-canvas-left__site" href="https://www.werkstatt-west.de/impressum/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://werkstatt-west.de/impressum/">
+                    </a> <a class="off-canvas-left__site" href="https://www.werkstatt-west.de/impressum/">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://werkstatt-west.de/impressum/">
+                    </a> <a class="off-canvas-left__site" href="https://www.werkstatt-west.de/impressum/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -887,7 +887,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://werkstatt-west.de/impressum/" accept-charset="UTF-8"
+                    <form id="search" action="https://www.werkstatt-west.de/impressum/" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -906,42 +906,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="https://werkstatt-west.de/impressum/">
+                            href="https://www.werkstatt-west.de/impressum/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Popular Files</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Featured Files</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Top New Files</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Follow Feed</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Top Authors</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Top New
+                                    href="https://www.werkstatt-west.de/impressum/">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Public Collections</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">View All Categories</a>
+                                    href="https://www.werkstatt-west.de/impressum/">View All Categories</a>
                             </li>
                         </ul>
 
@@ -949,88 +949,88 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="https://werkstatt-west.de/impressum/">
+                            href="https://www.werkstatt-west.de/impressum/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Show all
+                                    href="https://www.werkstatt-west.de/impressum/">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Popular Items</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Blog /
+                                    href="https://www.werkstatt-west.de/impressum/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">BuddyPress</a>
+                                    href="https://www.werkstatt-west.de/impressum/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Corporate</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Creative</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Directory &amp; Listings</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">eCommerce</a>
+                                    href="https://www.werkstatt-west.de/impressum/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Education</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Elementor</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Entertainment</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Mobile</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Nonprofit</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Real
+                                    href="https://www.werkstatt-west.de/impressum/">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Retail</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Technology</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Wedding</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Miscellaneous</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">WordPress Plugins</a>
+                                    href="https://www.werkstatt-west.de/impressum/">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -1038,21 +1038,21 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="https://werkstatt-west.de/impressum/">
+                            href="https://www.werkstatt-west.de/impressum/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Template Kits</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Plugins</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Themes</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Themes</a>
                             </li>
                         </ul>
 
@@ -1060,72 +1060,72 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://werkstatt-west.de/impressum/">
+                            href="https://www.werkstatt-west.de/impressum/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://werkstatt-west.de/impressum/">
+                            href="https://www.werkstatt-west.de/impressum/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Show all
+                                    href="https://www.werkstatt-west.de/impressum/">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Popular Items</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Admin Templates</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Corporate</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Creative</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Entertainment</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Mobile</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Nonprofit</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Personal</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Retail</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Specialty Pages</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Technology</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Wedding</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Miscellaneous</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1133,42 +1133,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="https://werkstatt-west.de/impressum/">
+                            href="https://www.werkstatt-west.de/impressum/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Show all
+                                    href="https://www.werkstatt-west.de/impressum/">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Popular Items</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Fashion</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Shopping</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Health &amp; Beauty</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Technology</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Entertainment</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Miscellaneous</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1176,91 +1176,91 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://werkstatt-west.de/impressum/">
+                            href="https://www.werkstatt-west.de/impressum/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="https://werkstatt-west.de/impressum/">
+                            href="https://www.werkstatt-west.de/impressum/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Show all
+                                    href="https://www.werkstatt-west.de/impressum/">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Popular Items</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Email Templates</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Landing Pages</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Unbounce Landing Pages</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://werkstatt-west.de/impressum/">
+                            href="https://www.werkstatt-west.de/impressum/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Show all CMS</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Popular Items</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Concrete5</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Drupal</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">HubSpot CMS Hub</a>
+                                    href="https://www.werkstatt-west.de/impressum/">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Joomla</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">MODX
+                                    href="https://www.werkstatt-west.de/impressum/">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Moodle</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Webflow</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Weebly</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Miscellaneous</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1268,71 +1268,71 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="https://werkstatt-west.de/impressum/">
+                            href="https://www.werkstatt-west.de/impressum/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Show all
+                                    href="https://www.werkstatt-west.de/impressum/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Popular Items</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">WooCommerce</a>
+                                    href="https://www.werkstatt-west.de/impressum/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">BigCommerce</a>
+                                    href="https://www.werkstatt-west.de/impressum/">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Drupal Commerce</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Easy Digital Downloads</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Ecwid</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Magento</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">OpenCart</a>
+                                    href="https://www.werkstatt-west.de/impressum/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">PrestaShop</a>
+                                    href="https://www.werkstatt-west.de/impressum/">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Shopify</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Ubercart</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">VirtueMart</a>
+                                    href="https://www.werkstatt-west.de/impressum/">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Zen
+                                    href="https://www.werkstatt-west.de/impressum/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Miscellaneous</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1340,30 +1340,30 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="https://werkstatt-west.de/impressum/">
+                            href="https://www.werkstatt-west.de/impressum/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Popular Items</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Figma</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Adobe
+                                    href="https://www.werkstatt-west.de/impressum/">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Photoshop</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Sketch</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Sketch</a>
                             </li>
                         </ul>
 
@@ -1371,56 +1371,56 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://werkstatt-west.de/impressum/">
+                            href="https://www.werkstatt-west.de/impressum/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://werkstatt-west.de/impressum/">
+                            href="https://www.werkstatt-west.de/impressum/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Blogging</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Courses</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Facebook Templates</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Free Elementor Templates</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Free
+                                    href="https://www.werkstatt-west.de/impressum/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Forums</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Ghost
+                                    href="https://www.werkstatt-west.de/impressum/">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://werkstatt-west.de/impressum/">Tumblr</a>
+                                    href="https://www.werkstatt-west.de/impressum/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://werkstatt-west.de/impressum/">Unlimited
+                                    href="https://www.werkstatt-west.de/impressum/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1431,7 +1431,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://werkstatt-west.de/impressum/">Unlimited
+                            href="https://www.werkstatt-west.de/impressum/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1443,7 +1443,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://werkstatt-west.de/impressum/">
+                <a class="off-canvas-right__link--cart" href="https://www.werkstatt-west.de/impressum/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1470,7 +1470,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://werkstatt-west.de/impressum/">
+                                    <a class="btn btn--square" href="https://www.werkstatt-west.de/impressum/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1490,7 +1490,7 @@
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://werkstatt-west.de/impressum/">
+                                        href="https://www.werkstatt-west.de/impressum/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1498,14 +1498,14 @@
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://werkstatt-west.de/impressum/">
+                                        href="https://www.werkstatt-west.de/impressum/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://werkstatt-west.de/impressum/">
+                                    <a href="https://www.werkstatt-west.de/impressum/">
                                         <img alt="Logo Baru"
                                             src="https://assets-lux168.sgp1.cdn.digitaloceanspaces.com/landingpages/hokijitu/logo.webp"
                                             style="height:40px; width:auto; display:inline-block;">
@@ -1522,7 +1522,7 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://werkstatt-west.de/impressum/">
+                                    <a href="https://www.werkstatt-west.de/impressum/">
                                         <img height="50" alt="Envato Market" class="global-header__logo"
                                             src="https://assets-lux168.sgp1.cdn.digitaloceanspaces.com/landingpages/hokijitu/logo.webp">
                                     </a>
@@ -1530,7 +1530,7 @@
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://werkstatt-west.de/impressum/">
+                                                    href="https://www.werkstatt-west.de/impressum/">
                                                     <span class="global-header-menu__link-text">
                                                         TOTO SLOT
                                                     </span>
@@ -1538,7 +1538,7 @@
                                             </li>
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://werkstatt-west.de/impressum/">
+                                                    href="https://www.werkstatt-west.de/impressum/">
                                                     <span class="global-header-menu__link-text">
                                                         SLOT GACOR MUDAH MENANG
                                                     </span>
@@ -1549,7 +1549,7 @@
                                             <li data-view="globalHeaderMenuDropdownHandler"
                                                 class="global-header-menu__list-item--with-dropdown">
                                                 <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                                    href="https://werkstatt-west.de/impressum/">
+                                                    href="https://www.werkstatt-west.de/impressum/">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon"
                                                         xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
@@ -1609,31 +1609,31 @@
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link is-active" alt="Web Templates"
-                                                href="https://werkstatt-west.de/impressum/">HOKIJITU</a>
+                                                href="https://www.werkstatt-west.de/impressum/">HOKIJITU</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Code"
-                                                href="https://werkstatt-west.de/impressum/">TOTO SLOT</a>
+                                                href="https://www.werkstatt-west.de/impressum/">TOTO SLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Video"
-                                                href="https://werkstatt-west.de/impressum/">SLOT GACOR</a>
+                                                href="https://www.werkstatt-west.de/impressum/">SLOT GACOR</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Music"
-                                                href="https://werkstatt-west.de/impressum/">SLOT RESMI</a>
+                                                href="https://www.werkstatt-west.de/impressum/">SLOT RESMI</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Graphics"
-                                                href="https://werkstatt-west.de/impressum/">BANDAR SLOT</a>
+                                                href="https://www.werkstatt-west.de/impressum/">BANDAR SLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Photos"
-                                                href="https://werkstatt-west.de/impressum/">AGEN SLOT</a>
+                                                href="https://www.werkstatt-west.de/impressum/">AGEN SLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="3D Files"
-                                                href="https://werkstatt-west.de/impressum/">SLOT GACOR MUDAH MENANG</a>
+                                                href="https://www.werkstatt-west.de/impressum/">SLOT GACOR MUDAH MENANG</a>
                                         </div>
 
                                         <div class="header-site-titles__site elements-nav__container"
@@ -1711,7 +1711,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-0-dropdown"
-                                                href="https://werkstatt-west.de/impressum/">
+                                                href="https://www.werkstatt-west.de/impressum/">
 
                                                 HOKIJITU
 
@@ -1720,7 +1720,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-1-dropdown"
-                                                href="https://werkstatt-west.de/impressum/">
+                                                href="https://www.werkstatt-west.de/impressum/">
 
                                                 TOTO SLOT
 
@@ -1729,7 +1729,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-2-dropdown"
-                                                href="https://werkstatt-west.de/impressum/">
+                                                href="https://www.werkstatt-west.de/impressum/">
 
                                                 SLOT GACOR
 
@@ -1737,7 +1737,7 @@
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://werkstatt-west.de/impressum/">
+                                                href="https://www.werkstatt-west.de/impressum/">
 
                                                 SLOT RESMI
 
@@ -1746,7 +1746,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-5-dropdown"
-                                                href="https://werkstatt-west.de/impressum/">
+                                                href="https://www.werkstatt-west.de/impressum/">
 
                                                 AGEN SLOT
 
@@ -1755,7 +1755,7 @@
                                     </ul>
                                     <div class="header-categories__search" bis_skin_checked="1">
                                         <form id="search" data-view="searchField"
-                                            action="https://werkstatt-west.de/impressum/"
+                                            action="https://www.werkstatt-west.de/impressum/"
                                             accept-charset="UTF-8" method="get">
                                             <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                 <div class="search-field__input" bis_skin_checked="1">
@@ -1817,14 +1817,14 @@
                             <nav class="breadcrumbs h-text-truncate  ">
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://werkstatt-west.de/impressum/">HOKIJITU</a>
+                                    href="https://www.werkstatt-west.de/impressum/">HOKIJITU</a>
 
 
-                                <a href="https://werkstatt-west.de/impressum/"
+                                <a href="https://www.werkstatt-west.de/impressum/"
                                     class="js-breadcrumb-category">TOTO SLOT</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://werkstatt-west.de/impressum/">HOKIJITU: Bandar Togel Hokidraw & Slot Gacor Terpercaya Paling Panas 2025</a>
+                                    href="https://www.werkstatt-west.de/impressum/">HOKIJITU: Bandar Togel Hokidraw & Slot Gacor Terpercaya Paling Panas 2025</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1840,7 +1840,7 @@
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
                                         <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m"
                                             rel="nofollow" title="Add to Cart" data-view="modalAjax"
-                                            href="https://werkstatt-west.de/impressum/">
+                                            href="https://www.werkstatt-west.de/impressum/">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
@@ -1855,7 +1855,7 @@
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
                                         By <a rel="author" class="js-by-author"
-                                            href="https://werkstatt-west.de/impressum/">HOKIJITU</a>
+                                            href="https://www.werkstatt-west.de/impressum/">HOKIJITU</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
@@ -1894,10 +1894,10 @@
                                 <ul>
                                     <li class="selected"><a
                                             class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="https://werkstatt-west.de/impressum/">Item Details</a>
+                                            href="https://www.werkstatt-west.de/impressum/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="https://werkstatt-west.de/impressum/"><span>Reviews</span><span>
+                                            href="https://www.werkstatt-west.de/impressum/"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" bis_skin_checked="1">
                                                         <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -1917,10 +1917,10 @@
                                                 </div>
                                             </span><span class="item-navigation-reviews-comments">8,410</span></a></li>
                                     <li><a class="js-item-navigation-comments t-link -decoration-none"
-                                            href="https://werkstatt-west.de/impressum/"><span>Comments</span><span
+                                            href="https://www.werkstatt-west.de/impressum/"><span>Comments</span><span
                                                 class="item-navigation-reviews-comments">4,594</span></a></li>
                                     <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="https://werkstatt-west.de/impressum/">Support</a>
+                                            href="https://www.werkstatt-west.de/impressum/">Support</a>
                                     </li>
                                 </ul>
 
@@ -1966,12 +1966,12 @@
                                 <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
                                     <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://werkstatt-west.de/impressum/"><span
+                                            href="https://www.werkstatt-west.de/impressum/"><span
                                                 class="item-bookmarking__control--label">Add to Favorites</span></a>
                                     </li>
                                     <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://werkstatt-west.de/impressum/"><span
+                                            href="https://www.werkstatt-west.de/impressum/"><span
                                                 class="item-bookmarking__control--label">Add to Collection</span></a>
                                     </li>
                                 </ul>
@@ -2002,7 +2002,7 @@
                                             <li class="item-bookmarking__control_icons--favorite">
                                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://werkstatt-west.de/impressum/"><span
+                                                        href="https://www.werkstatt-west.de/impressum/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a>
                                                 </span>
@@ -2011,7 +2011,7 @@
                                             <li class="item-bookmarking__control_icons--collection">
                                                 <span>
                                                     <a title="Add to Collection" data-view="modalAjax"
-                                                        href="https://werkstatt-west.de/impressum/">
+                                                        href="https://www.werkstatt-west.de/impressum/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span>
                                                     </a> </span>
@@ -2116,7 +2116,7 @@
                                             <div class="js-item-description-toggle item-description-toggle"
                                                 bis_skin_checked="1">
                                                 <a class="item-description-toggle__link"
-                                                    href="https://werkstatt-west.de/impressum/">
+                                                    href="https://www.werkstatt-west.de/impressum/">
                                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2257,7 +2257,7 @@
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
                                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;HOKIJITU: Bandar Togel Hokidraw & Slot Gacor Terpercaya Paling Panas 2025&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="https://werkstatt-west.de/impressum/"
+                                                    action="https://www.werkstatt-west.de/impressum/"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
@@ -2318,7 +2318,7 @@
                                                                                 <p class="t-body -size-m h-m0">
                                                                                     <a class="t-link -decoration-reversed"
                                                                                         target="_blank"
-                                                                                        href="https://werkstatt-west.de/impressum/licenses/standard">View
+                                                                                        href="https://www.werkstatt-west.de/impressum/licenses/standard">View
                                                                                         license details</a>
                                                                                 </p>
                                                                             </div>
