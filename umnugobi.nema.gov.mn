@@ -83,7 +83,7 @@
 
     <meta name="theme-color" content="#333333">
 
-    <link rel="canonical" href="https://umnugobi.nema.gov.mn/">
+    <link rel="canonical" href="http://umnugobi.nema.gov.mn/">
     <link rel="amphtml" href="https://amp-lux168.com/danatoto/umnugobi.nema.gov.mn/" />
 
     <script type="application/ld+json">
@@ -99,10 +99,10 @@
   },
   "sku": "TOTO SLOT",
   "mpn": "SLOT GACOR",
-  "url": "https://umnugobi.nema.gov.mn/",
+  "url": "http://umnugobi.nema.gov.mn/",
   "offers": {
     "@type": "Offer",
-    "url": "https://umnugobi.nema.gov.mn/",
+    "url": "http://umnugobi.nema.gov.mn/",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -168,49 +168,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "DANATOTO",
-      "item": "https://umnugobi.nema.gov.mn/"
+      "item": "http://umnugobi.nema.gov.mn/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "TOTO SLOT",
-      "item": "https://umnugobi.nema.gov.mn/"
+      "item": "http://umnugobi.nema.gov.mn/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT GACOR",
-      "item": "https://umnugobi.nema.gov.mn/"
+      "item": "http://umnugobi.nema.gov.mn/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOTO SLOT",
-      "item": "https://umnugobi.nema.gov.mn/"
+      "item": "http://umnugobi.nema.gov.mn/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SLOT RESMI",
-      "item": "https://umnugobi.nema.gov.mn/"
+      "item": "http://umnugobi.nema.gov.mn/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "BANDAR SLOT",
-      "item": "https://umnugobi.nema.gov.mn/"
+      "item": "http://umnugobi.nema.gov.mn/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "AGEN SLOT",
-      "item": "https://umnugobi.nema.gov.mn/"
+      "item": "http://umnugobi.nema.gov.mn/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "DANATOTO: Akses Toto 4D, Hokidraw & Slot Gacor Extra Sensational",
-      "item": "https://umnugobi.nema.gov.mn/"
+      "item": "http://umnugobi.nema.gov.mn/"
     }
   ]
 }
@@ -221,7 +221,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "DANATOTO",
-  "url": "https://umnugobi.nema.gov.mn/",
+  "url": "http://umnugobi.nema.gov.mn/",
   "logo": "https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/Logo-motion-AD/danatoto.webp",
   "sameAs": [
     "https://facebook.com/danatoto",
@@ -244,27 +244,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://umnugobi.nema.gov.mn/#org",
+      "@id": "http://umnugobi.nema.gov.mn/#org",
       "name": "DANATOTO",
-      "url": "https://umnugobi.nema.gov.mn/",
+      "url": "http://umnugobi.nema.gov.mn/",
       "logo": "https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/qrcodebrands/banners/DANATOTO.webp"
     },
     {
       "@type": "WebSite",
-      "@id": "https://umnugobi.nema.gov.mn/#website",
-      "url": "https://umnugobi.nema.gov.mn/",
+      "@id": "http://umnugobi.nema.gov.mn/#website",
+      "url": "http://umnugobi.nema.gov.mn/",
       "name": "DANATOTO",
-      "publisher": { "@id": "https://umnugobi.nema.gov.mn/#org" },
+      "publisher": { "@id": "http://umnugobi.nema.gov.mn/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://umnugobi.nema.gov.mn/?s={search_term_string}",
+        "target": "http://umnugobi.nema.gov.mn/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://umnugobi.nema.gov.mn/#app",
+      "@id": "http://umnugobi.nema.gov.mn/#app",
       "name": "DANATOTO",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -289,7 +289,7 @@
     <meta property="og:description"
         content="DANATOTO adalah Akses Toto 4D dan Hokidraw resmi. Mainkan Slot Gacor Extra Sensational! Rasakan sensasi JP terbesar hari ini">
     <meta property="og:image" content="https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/qrcodebrands/banners/DANATOTO.webp">
-    <meta property="og:url" content="https://umnugobi.nema.gov.mn/">
+    <meta property="og:url" content="http://umnugobi.nema.gov.mn/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
@@ -299,7 +299,7 @@
     <meta name="twitter:image" content="https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/qrcodebrands/banners/DANATOTO.webp">
     <meta property="og:title" content="DANATOTO: Akses Toto 4D, Hokidraw & Slot Gacor Extra Sensational">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://umnugobi.nema.gov.mn/">
+    <meta property="og:url" content="http://umnugobi.nema.gov.mn/">
     <meta property="og:image" content="https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/qrcodebrands/banners/DANATOTO.webp" />
     <meta property="og:description"
         content="DANATOTO adalah Akses Toto 4D dan Hokidraw resmi. Mainkan Slot Gacor Extra Sensational! Rasakan sensasi JP terbesar hari ini">
@@ -838,7 +838,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://umnugobi.nema.gov.mn/">Envato Market</a>
+                    <a href="http://umnugobi.nema.gov.mn/">Envato Market</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -848,7 +848,7 @@
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="https://umnugobi.nema.gov.mn/"></a>
+                        href="http://umnugobi.nema.gov.mn/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
@@ -857,27 +857,27 @@
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://umnugobi.nema.gov.mn/">
+                    </a> <a class="off-canvas-left__site" href="http://umnugobi.nema.gov.mn/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://umnugobi.nema.gov.mn/">
+                    </a> <a class="off-canvas-left__site" href="http://umnugobi.nema.gov.mn/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://umnugobi.nema.gov.mn/">
+                    </a> <a class="off-canvas-left__site" href="http://umnugobi.nema.gov.mn/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://umnugobi.nema.gov.mn/">
+                    </a> <a class="off-canvas-left__site" href="http://umnugobi.nema.gov.mn/">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://umnugobi.nema.gov.mn/">
+                    </a> <a class="off-canvas-left__site" href="http://umnugobi.nema.gov.mn/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -886,7 +886,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://umnugobi.nema.gov.mn/" accept-charset="UTF-8"
+                    <form id="search" action="http://umnugobi.nema.gov.mn/" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -905,42 +905,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="https://umnugobi.nema.gov.mn/">
+                            href="http://umnugobi.nema.gov.mn/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Popular Files</a>
+                                    href="http://umnugobi.nema.gov.mn/">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Featured Files</a>
+                                    href="http://umnugobi.nema.gov.mn/">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Top New Files</a>
+                                    href="http://umnugobi.nema.gov.mn/">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Follow Feed</a>
+                                    href="http://umnugobi.nema.gov.mn/">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Top Authors</a>
+                                    href="http://umnugobi.nema.gov.mn/">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Top New
+                                    href="http://umnugobi.nema.gov.mn/">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Public Collections</a>
+                                    href="http://umnugobi.nema.gov.mn/">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">View All Categories</a>
+                                    href="http://umnugobi.nema.gov.mn/">View All Categories</a>
                             </li>
                         </ul>
 
@@ -948,88 +948,88 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="https://umnugobi.nema.gov.mn/">
+                            href="http://umnugobi.nema.gov.mn/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Show all
+                                    href="http://umnugobi.nema.gov.mn/">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Popular Items</a>
+                                    href="http://umnugobi.nema.gov.mn/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Blog /
+                                    href="http://umnugobi.nema.gov.mn/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">BuddyPress</a>
+                                    href="http://umnugobi.nema.gov.mn/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Corporate</a>
+                                    href="http://umnugobi.nema.gov.mn/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Creative</a>
+                                    href="http://umnugobi.nema.gov.mn/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Directory &amp; Listings</a>
+                                    href="http://umnugobi.nema.gov.mn/">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">eCommerce</a>
+                                    href="http://umnugobi.nema.gov.mn/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Education</a>
+                                    href="http://umnugobi.nema.gov.mn/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Elementor</a>
+                                    href="http://umnugobi.nema.gov.mn/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Entertainment</a>
+                                    href="http://umnugobi.nema.gov.mn/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Mobile</a>
+                                    href="http://umnugobi.nema.gov.mn/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Nonprofit</a>
+                                    href="http://umnugobi.nema.gov.mn/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Real
+                                    href="http://umnugobi.nema.gov.mn/">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Retail</a>
+                                    href="http://umnugobi.nema.gov.mn/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Technology</a>
+                                    href="http://umnugobi.nema.gov.mn/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Wedding</a>
+                                    href="http://umnugobi.nema.gov.mn/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Miscellaneous</a>
+                                    href="http://umnugobi.nema.gov.mn/">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">WordPress Plugins</a>
+                                    href="http://umnugobi.nema.gov.mn/">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -1037,21 +1037,21 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="https://umnugobi.nema.gov.mn/">
+                            href="http://umnugobi.nema.gov.mn/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Template Kits</a>
+                                    href="http://umnugobi.nema.gov.mn/">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Plugins</a>
+                                    href="http://umnugobi.nema.gov.mn/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Themes</a>
+                                    href="http://umnugobi.nema.gov.mn/">Themes</a>
                             </li>
                         </ul>
 
@@ -1059,72 +1059,72 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://umnugobi.nema.gov.mn/">
+                            href="http://umnugobi.nema.gov.mn/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://umnugobi.nema.gov.mn/">
+                            href="http://umnugobi.nema.gov.mn/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Show all
+                                    href="http://umnugobi.nema.gov.mn/">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Popular Items</a>
+                                    href="http://umnugobi.nema.gov.mn/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Admin Templates</a>
+                                    href="http://umnugobi.nema.gov.mn/">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Corporate</a>
+                                    href="http://umnugobi.nema.gov.mn/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Creative</a>
+                                    href="http://umnugobi.nema.gov.mn/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Entertainment</a>
+                                    href="http://umnugobi.nema.gov.mn/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Mobile</a>
+                                    href="http://umnugobi.nema.gov.mn/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Nonprofit</a>
+                                    href="http://umnugobi.nema.gov.mn/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Personal</a>
+                                    href="http://umnugobi.nema.gov.mn/">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Retail</a>
+                                    href="http://umnugobi.nema.gov.mn/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Specialty Pages</a>
+                                    href="http://umnugobi.nema.gov.mn/">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Technology</a>
+                                    href="http://umnugobi.nema.gov.mn/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Wedding</a>
+                                    href="http://umnugobi.nema.gov.mn/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Miscellaneous</a>
+                                    href="http://umnugobi.nema.gov.mn/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1132,42 +1132,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="https://umnugobi.nema.gov.mn/">
+                            href="http://umnugobi.nema.gov.mn/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Show all
+                                    href="http://umnugobi.nema.gov.mn/">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Popular Items</a>
+                                    href="http://umnugobi.nema.gov.mn/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Fashion</a>
+                                    href="http://umnugobi.nema.gov.mn/">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Shopping</a>
+                                    href="http://umnugobi.nema.gov.mn/">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Health &amp; Beauty</a>
+                                    href="http://umnugobi.nema.gov.mn/">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Technology</a>
+                                    href="http://umnugobi.nema.gov.mn/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Entertainment</a>
+                                    href="http://umnugobi.nema.gov.mn/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Miscellaneous</a>
+                                    href="http://umnugobi.nema.gov.mn/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1175,91 +1175,91 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://umnugobi.nema.gov.mn/">
+                            href="http://umnugobi.nema.gov.mn/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="https://umnugobi.nema.gov.mn/">
+                            href="http://umnugobi.nema.gov.mn/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Show all
+                                    href="http://umnugobi.nema.gov.mn/">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Popular Items</a>
+                                    href="http://umnugobi.nema.gov.mn/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Email Templates</a>
+                                    href="http://umnugobi.nema.gov.mn/">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Landing Pages</a>
+                                    href="http://umnugobi.nema.gov.mn/">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Unbounce Landing Pages</a>
+                                    href="http://umnugobi.nema.gov.mn/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://umnugobi.nema.gov.mn/">
+                            href="http://umnugobi.nema.gov.mn/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Show all CMS</a>
+                                    href="http://umnugobi.nema.gov.mn/">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Popular Items</a>
+                                    href="http://umnugobi.nema.gov.mn/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Concrete5</a>
+                                    href="http://umnugobi.nema.gov.mn/">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Drupal</a>
+                                    href="http://umnugobi.nema.gov.mn/">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">HubSpot CMS Hub</a>
+                                    href="http://umnugobi.nema.gov.mn/">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Joomla</a>
+                                    href="http://umnugobi.nema.gov.mn/">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">MODX
+                                    href="http://umnugobi.nema.gov.mn/">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Moodle</a>
+                                    href="http://umnugobi.nema.gov.mn/">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Webflow</a>
+                                    href="http://umnugobi.nema.gov.mn/">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Weebly</a>
+                                    href="http://umnugobi.nema.gov.mn/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Miscellaneous</a>
+                                    href="http://umnugobi.nema.gov.mn/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1267,71 +1267,71 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="https://umnugobi.nema.gov.mn/">
+                            href="http://umnugobi.nema.gov.mn/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Show all
+                                    href="http://umnugobi.nema.gov.mn/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Popular Items</a>
+                                    href="http://umnugobi.nema.gov.mn/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">WooCommerce</a>
+                                    href="http://umnugobi.nema.gov.mn/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">BigCommerce</a>
+                                    href="http://umnugobi.nema.gov.mn/">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Drupal Commerce</a>
+                                    href="http://umnugobi.nema.gov.mn/">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Easy Digital Downloads</a>
+                                    href="http://umnugobi.nema.gov.mn/">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Ecwid</a>
+                                    href="http://umnugobi.nema.gov.mn/">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Magento</a>
+                                    href="http://umnugobi.nema.gov.mn/">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">OpenCart</a>
+                                    href="http://umnugobi.nema.gov.mn/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">PrestaShop</a>
+                                    href="http://umnugobi.nema.gov.mn/">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Shopify</a>
+                                    href="http://umnugobi.nema.gov.mn/">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Ubercart</a>
+                                    href="http://umnugobi.nema.gov.mn/">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">VirtueMart</a>
+                                    href="http://umnugobi.nema.gov.mn/">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Zen
+                                    href="http://umnugobi.nema.gov.mn/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Miscellaneous</a>
+                                    href="http://umnugobi.nema.gov.mn/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1339,30 +1339,30 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="https://umnugobi.nema.gov.mn/">
+                            href="http://umnugobi.nema.gov.mn/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Popular Items</a>
+                                    href="http://umnugobi.nema.gov.mn/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Figma</a>
+                                    href="http://umnugobi.nema.gov.mn/">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Adobe
+                                    href="http://umnugobi.nema.gov.mn/">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Photoshop</a>
+                                    href="http://umnugobi.nema.gov.mn/">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Sketch</a>
+                                    href="http://umnugobi.nema.gov.mn/">Sketch</a>
                             </li>
                         </ul>
 
@@ -1370,56 +1370,56 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://umnugobi.nema.gov.mn/">
+                            href="http://umnugobi.nema.gov.mn/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://umnugobi.nema.gov.mn/">
+                            href="http://umnugobi.nema.gov.mn/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Blogging</a>
+                                    href="http://umnugobi.nema.gov.mn/">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Courses</a>
+                                    href="http://umnugobi.nema.gov.mn/">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Facebook Templates</a>
+                                    href="http://umnugobi.nema.gov.mn/">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Free Elementor Templates</a>
+                                    href="http://umnugobi.nema.gov.mn/">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Free
+                                    href="http://umnugobi.nema.gov.mn/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Forums</a>
+                                    href="http://umnugobi.nema.gov.mn/">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Ghost
+                                    href="http://umnugobi.nema.gov.mn/">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://umnugobi.nema.gov.mn/">Tumblr</a>
+                                    href="http://umnugobi.nema.gov.mn/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://umnugobi.nema.gov.mn/">Unlimited
+                                    href="http://umnugobi.nema.gov.mn/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1430,7 +1430,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://umnugobi.nema.gov.mn/">Unlimited
+                            href="http://umnugobi.nema.gov.mn/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1442,7 +1442,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://umnugobi.nema.gov.mn/">
+                <a class="off-canvas-right__link--cart" href="http://umnugobi.nema.gov.mn/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1469,7 +1469,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://umnugobi.nema.gov.mn/">
+                                    <a class="btn btn--square" href="http://umnugobi.nema.gov.mn/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1489,7 +1489,7 @@
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://umnugobi.nema.gov.mn/">
+                                        href="http://umnugobi.nema.gov.mn/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1497,14 +1497,14 @@
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://umnugobi.nema.gov.mn/">
+                                        href="http://umnugobi.nema.gov.mn/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://umnugobi.nema.gov.mn/">
+                                    <a href="http://umnugobi.nema.gov.mn/">
                                         <img alt="Logo Baru"
                                             src="https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/Logo-motion-AD/danatoto.webp"
                                             style="height:40px; width:auto; display:inline-block;">
@@ -1521,7 +1521,7 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://umnugobi.nema.gov.mn/">
+                                    <a href="http://umnugobi.nema.gov.mn/">
                                         <img height="50" alt="Envato Market" class="global-header__logo"
                                             src="https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/Logo-motion-AD/danatoto.webp">
                                     </a>
@@ -1529,7 +1529,7 @@
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://umnugobi.nema.gov.mn/">
+                                                    href="http://umnugobi.nema.gov.mn/">
                                                     <span class="global-header-menu__link-text">
                                                         TOTO SLOT
                                                     </span>
@@ -1537,7 +1537,7 @@
                                             </li>
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://umnugobi.nema.gov.mn/">
+                                                    href="http://umnugobi.nema.gov.mn/">
                                                     <span class="global-header-menu__link-text">
                                                         SLOT GACOR MUDAH MENANG
                                                     </span>
@@ -1548,7 +1548,7 @@
                                             <li data-view="globalHeaderMenuDropdownHandler"
                                                 class="global-header-menu__list-item--with-dropdown">
                                                 <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                                    href="https://umnugobi.nema.gov.mn/">
+                                                    href="http://umnugobi.nema.gov.mn/">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon"
                                                         xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
@@ -1608,31 +1608,31 @@
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link is-active" alt="Web Templates"
-                                                href="https://umnugobi.nema.gov.mn/">DANATOTO</a>
+                                                href="http://umnugobi.nema.gov.mn/">DANATOTO</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Code"
-                                                href="https://umnugobi.nema.gov.mn/">TOTO SLOT</a>
+                                                href="http://umnugobi.nema.gov.mn/">TOTO SLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Video"
-                                                href="https://umnugobi.nema.gov.mn/">SLOT GACOR</a>
+                                                href="http://umnugobi.nema.gov.mn/">SLOT GACOR</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Music"
-                                                href="https://umnugobi.nema.gov.mn/">SLOT RESMI</a>
+                                                href="http://umnugobi.nema.gov.mn/">SLOT RESMI</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Graphics"
-                                                href="https://umnugobi.nema.gov.mn/">BANDAR SLOT</a>
+                                                href="http://umnugobi.nema.gov.mn/">BANDAR SLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Photos"
-                                                href="https://umnugobi.nema.gov.mn/">AGEN SLOT</a>
+                                                href="http://umnugobi.nema.gov.mn/">AGEN SLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="3D Files"
-                                                href="https://umnugobi.nema.gov.mn/">SLOT GACOR MUDAH MENANG</a>
+                                                href="http://umnugobi.nema.gov.mn/">SLOT GACOR MUDAH MENANG</a>
                                         </div>
 
                                         <div class="header-site-titles__site elements-nav__container"
@@ -1710,7 +1710,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-0-dropdown"
-                                                href="https://umnugobi.nema.gov.mn/">
+                                                href="http://umnugobi.nema.gov.mn/">
 
                                                 DANATOTO
 
@@ -1719,7 +1719,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-1-dropdown"
-                                                href="https://umnugobi.nema.gov.mn/">
+                                                href="http://umnugobi.nema.gov.mn/">
 
                                                 TOTO SLOT
 
@@ -1728,7 +1728,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-2-dropdown"
-                                                href="https://umnugobi.nema.gov.mn/">
+                                                href="http://umnugobi.nema.gov.mn/">
 
                                                 SLOT GACOR
 
@@ -1736,7 +1736,7 @@
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://umnugobi.nema.gov.mn/">
+                                                href="http://umnugobi.nema.gov.mn/">
 
                                                 SLOT RESMI
 
@@ -1745,7 +1745,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-5-dropdown"
-                                                href="https://umnugobi.nema.gov.mn/">
+                                                href="http://umnugobi.nema.gov.mn/">
 
                                                 AGEN SLOT
 
@@ -1754,7 +1754,7 @@
                                     </ul>
                                     <div class="header-categories__search" bis_skin_checked="1">
                                         <form id="search" data-view="searchField"
-                                            action="https://umnugobi.nema.gov.mn/"
+                                            action="http://umnugobi.nema.gov.mn/"
                                             accept-charset="UTF-8" method="get">
                                             <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                 <div class="search-field__input" bis_skin_checked="1">
@@ -1816,14 +1816,14 @@
                             <nav class="breadcrumbs h-text-truncate  ">
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://umnugobi.nema.gov.mn/">DANATOTO</a>
+                                    href="http://umnugobi.nema.gov.mn/">DANATOTO</a>
 
 
-                                <a href="https://umnugobi.nema.gov.mn/"
+                                <a href="http://umnugobi.nema.gov.mn/"
                                     class="js-breadcrumb-category">TOTO SLOT</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://umnugobi.nema.gov.mn/">DANATOTO: Akses Toto 4D, Hokidraw & Slot Gacor Extra Sensational</a>
+                                    href="http://umnugobi.nema.gov.mn/">DANATOTO: Akses Toto 4D, Hokidraw & Slot Gacor Extra Sensational</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1839,7 +1839,7 @@
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
                                         <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m"
                                             rel="nofollow" title="Add to Cart" data-view="modalAjax"
-                                            href="https://umnugobi.nema.gov.mn/">
+                                            href="http://umnugobi.nema.gov.mn/">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
@@ -1854,7 +1854,7 @@
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
                                         By <a rel="author" class="js-by-author"
-                                            href="https://umnugobi.nema.gov.mn/">DANATOTO</a>
+                                            href="http://umnugobi.nema.gov.mn/">DANATOTO</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
@@ -1893,10 +1893,10 @@
                                 <ul>
                                     <li class="selected"><a
                                             class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="https://umnugobi.nema.gov.mn/">Item Details</a>
+                                            href="http://umnugobi.nema.gov.mn/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="https://umnugobi.nema.gov.mn/"><span>Reviews</span><span>
+                                            href="http://umnugobi.nema.gov.mn/"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" bis_skin_checked="1">
                                                         <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -1916,10 +1916,10 @@
                                                 </div>
                                             </span><span class="item-navigation-reviews-comments">8,410</span></a></li>
                                     <li><a class="js-item-navigation-comments t-link -decoration-none"
-                                            href="https://umnugobi.nema.gov.mn/"><span>Comments</span><span
+                                            href="http://umnugobi.nema.gov.mn/"><span>Comments</span><span
                                                 class="item-navigation-reviews-comments">4,594</span></a></li>
                                     <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="https://umnugobi.nema.gov.mn/">Support</a>
+                                            href="http://umnugobi.nema.gov.mn/">Support</a>
                                     </li>
                                 </ul>
 
@@ -1965,12 +1965,12 @@
                                 <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
                                     <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://umnugobi.nema.gov.mn/"><span
+                                            href="http://umnugobi.nema.gov.mn/"><span
                                                 class="item-bookmarking__control--label">Add to Favorites</span></a>
                                     </li>
                                     <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://umnugobi.nema.gov.mn/"><span
+                                            href="http://umnugobi.nema.gov.mn/"><span
                                                 class="item-bookmarking__control--label">Add to Collection</span></a>
                                     </li>
                                 </ul>
@@ -2001,7 +2001,7 @@
                                             <li class="item-bookmarking__control_icons--favorite">
                                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://umnugobi.nema.gov.mn/"><span
+                                                        href="http://umnugobi.nema.gov.mn/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a>
                                                 </span>
@@ -2010,7 +2010,7 @@
                                             <li class="item-bookmarking__control_icons--collection">
                                                 <span>
                                                     <a title="Add to Collection" data-view="modalAjax"
-                                                        href="https://umnugobi.nema.gov.mn/">
+                                                        href="http://umnugobi.nema.gov.mn/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span>
                                                     </a> </span>
@@ -2115,7 +2115,7 @@
                                             <div class="js-item-description-toggle item-description-toggle"
                                                 bis_skin_checked="1">
                                                 <a class="item-description-toggle__link"
-                                                    href="https://umnugobi.nema.gov.mn/">
+                                                    href="http://umnugobi.nema.gov.mn/">
                                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2256,7 +2256,7 @@
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
                                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;DANATOTO: Akses Toto 4D, Hokidraw & Slot Gacor Extra Sensational&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="https://umnugobi.nema.gov.mn/"
+                                                    action="http://umnugobi.nema.gov.mn/"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
@@ -2317,7 +2317,7 @@
                                                                                 <p class="t-body -size-m h-m0">
                                                                                     <a class="t-link -decoration-reversed"
                                                                                         target="_blank"
-                                                                                        href="https://umnugobi.nema.gov.mn/licenses/standard">View
+                                                                                        href="http://umnugobi.nema.gov.mn/licenses/standard">View
                                                                                         license details</a>
                                                                                 </p>
                                                                             </div>
